@@ -1,3 +1,4 @@
+#A React.js app that can convert text into uppercase, lowercase, clear text, copy text, capitalize text, Remove extra space
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
